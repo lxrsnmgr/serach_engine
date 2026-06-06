@@ -1,0 +1,29 @@
+{
+    "path" :
+    {
+        "dir_art"       :  "../data/raw_data/yuliao/art/",
+        "english"       :  "../data/raw_data/yuliao/english.txt",
+        "stop_word_eng" :  "../data/raw_data/yuliao/stop_words_eng.txt",
+        "stop_word_zh"  :  "../data/raw_data/yuliao/stop_words_zh.txt",
+        "the_holy_bible":  "../data/raw_data/yuliao/The_Holy_Bible.txt",
+        "dir_people"    :  "../data/raw_data/yuliao/people_daily",
+
+        "dict_eng"      :  "../data/database/dict_en.dat",
+        "dict_zh"       :  "../data/database/dict_zh.dat",
+        "index_eng"     :  "../data/database/index_eng.dat",
+        "index_zh"      :  "../data/database/index_zh.dat",
+        "offset"        :  "../data/database/offset.dat",
+        "newoffset"     :  "../data/database/newoffset.dat",
+        "ripepage"      :  "../data/database/ripepage.dat",
+        "newripepage"   :  "../data/database/newripepage.dat",
+        "invertindex"   :  "../data/database/invertindex.dat",
+
+        "hmm_model"     :  "../data/dict/hmm_model.utf8",
+        "idf"           :  "../data/dict/hmm_model.utf8",
+        "jieba.dict"    :  "../data/dict/jieba.dict.utf8",
+        "stop_words"    :  "../data/dict/stop_words.utf8",
+        "user.dict"     :  "../data/dict/user.dict.utf8",
+        "redis.init"    :  "tcp://127.0.0.1:6379",
+        "redis.ttl"     :  "30"
+    }
+}
