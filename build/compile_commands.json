@@ -1,0 +1,188 @@
+[
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dthirdparty_tinyxml2_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -o CMakeFiles/thirdparty_tinyxml2.dir/__/third_party/tinyxml2/tinyxml2.cpp.o -c /home/lxr/test/search_engine/search_engine/third_party/tinyxml2/tinyxml2.cpp",
+  "file": "/home/lxr/test/search_engine/search_engine/third_party/tinyxml2/tinyxml2.cpp",
+  "output": "src/CMakeFiles/thirdparty_tinyxml2.dir/__/third_party/tinyxml2/tinyxml2.cpp.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/cache/lru_cache.cc.o -c /home/lxr/test/search_engine/search_engine/src/cache/lru_cache.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/cache/lru_cache.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/cache/lru_cache.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/cache/redis.cc.o -c /home/lxr/test/search_engine/search_engine/src/cache/redis.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/cache/redis.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/cache/redis.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/common/configuration.cc.o -c /home/lxr/test/search_engine/search_engine/src/common/configuration.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/common/configuration.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/common/configuration.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/common/dir_scanner.cc.o -c /home/lxr/test/search_engine/search_engine/src/common/dir_scanner.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/common/dir_scanner.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/common/dir_scanner.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/common/file.cc.o -c /home/lxr/test/search_engine/search_engine/src/common/file.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/common/file.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/common/file.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/common/split_tool.cc.o -c /home/lxr/test/search_engine/search_engine/src/common/split_tool.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/common/split_tool.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/common/split_tool.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/key/candidate_result.cc.o -c /home/lxr/test/search_engine/search_engine/src/key/candidate_result.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/key/candidate_result.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/key/candidate_result.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/key/dict_producer.cc.o -c /home/lxr/test/search_engine/search_engine/src/key/dict_producer.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/key/dict_producer.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/key/dict_producer.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/key/dictionary.cc.o -c /home/lxr/test/search_engine/search_engine/src/key/dictionary.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/key/dictionary.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/key/dictionary.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/key/key_recommander.cc.o -c /home/lxr/test/search_engine/search_engine/src/key/key_recommander.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/key/key_recommander.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/key/key_recommander.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/key/mytimer.cc.o -c /home/lxr/test/search_engine/search_engine/src/key/mytimer.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/key/mytimer.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/key/mytimer.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/acceptor.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/acceptor.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/acceptor.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/acceptor.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/condition.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/condition.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/condition.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/condition.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/event_loop.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/event_loop.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/event_loop.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/event_loop.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/inet_address.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/inet_address.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/inet_address.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/inet_address.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/mutex_lock.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/mutex_lock.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/mutex_lock.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/mutex_lock.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/socket.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/socket.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/socket.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/socket.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/socket_io.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/socket_io.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/socket_io.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/socket_io.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/task_queue.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/task_queue.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/task_queue.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/task_queue.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/tcp_connection.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/tcp_connection.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/tcp_connection.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/tcp_connection.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/thread.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/thread.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/thread.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/thread.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/reactor/thread_pool.cc.o -c /home/lxr/test/search_engine/search_engine/src/reactor/thread_pool.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/reactor/thread_pool.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/reactor/thread_pool.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/web/caculate.cc.o -c /home/lxr/test/search_engine/search_engine/src/web/caculate.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/web/caculate.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/web/caculate.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/web/page_lib.cc.o -c /home/lxr/test/search_engine/search_engine/src/web/page_lib.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/web/page_lib.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/web/page_lib.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/web/page_lib_preprocessor.cc.o -c /home/lxr/test/search_engine/search_engine/src/web/page_lib_preprocessor.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/web/page_lib_preprocessor.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/web/page_lib_preprocessor.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/web/rss_parser.cc.o -c /home/lxr/test/search_engine/search_engine/src/web/rss_parser.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/web/rss_parser.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/web/rss_parser.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/web/web_page.cc.o -c /home/lxr/test/search_engine/search_engine/src/web/web_page.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/web/web_page.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/web/web_page.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/web/web_page_query.cc.o -c /home/lxr/test/search_engine/search_engine/src/web/web_page_query.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/web/web_page_query.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/web/web_page_query.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/src",
+  "command": "/usr/bin/c++ -Dsimple_shared_EXPORTS -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -fPIC -std=c++17 -o CMakeFiles/simple_shared.dir/web/web_page_searcher.cc.o -c /home/lxr/test/search_engine/search_engine/src/web/web_page_searcher.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/src/web/web_page_searcher.cc",
+  "output": "src/CMakeFiles/simple_shared.dir/web/web_page_searcher.cc.o"
+},
+{
+  "directory": "/home/lxr/test/search_engine/search_engine/build/test",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/lxr/test/search_engine/search_engine/src/include -I/home/lxr/test/search_engine/search_engine/test/include -I/home/lxr/test/search_engine/search_engine/third_party -std=gnu++17 -std=c++17 -o CMakeFiles/cache_test.dir/cache/cache_test.cc.o -c /home/lxr/test/search_engine/search_engine/test/cache/cache_test.cc",
+  "file": "/home/lxr/test/search_engine/search_engine/test/cache/cache_test.cc",
+  "output": "test/CMakeFiles/cache_test.dir/cache/cache_test.cc.o"
+}
+]

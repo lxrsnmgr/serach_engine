@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fPIC -shared -Wl,-soname,libthirdparty_tinyxml2.so -o ../lib/libthirdparty_tinyxml2.so CMakeFiles/thirdparty_tinyxml2.dir/__/third_party/tinyxml2/tinyxml2.cpp.o   -L/home/lxr/test/search_engine/search_engine/third_party 
